@@ -1,0 +1,3 @@
+tagnote.h|"C:\Users\gzhen\source\repos\TagNote\TagNote\TagNote\tagnote.h" -o ".\GeneratedFiles\Debug\moc_tagnote.cpp" "-I.\GeneratedFiles" "-I." "-IC:\Qt\Qt5.9.1\5.9.1\msvc2017_64\include" "-I.\GeneratedFiles\Debug" "-IC:\Qt\Qt5.9.1\5.9.1\msvc2017_64\include\QtCore" "-IC:\Qt\Qt5.9.1\5.9.1\msvc2017_64\include\QtGui" "-IC:\Qt\Qt5.9.1\5.9.1\msvc2017_64\include\QtANGLE" "-IC:\Qt\Qt5.9.1\5.9.1\msvc2017_64\include\QtWidgets" -DUNICODE -DWIN32 -DWIN64 -DQT_DLL -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB
+tagnote.qrc|"C:\Users\gzhen\source\repos\TagNote\TagNote\TagNote\tagnote.qrc" -o ".\GeneratedFiles\qrc_tagnote.cpp" --name tagnote
+tagnote.ui|"C:\Users\gzhen\source\repos\TagNote\TagNote\TagNote\tagnote.ui" -o ".\GeneratedFiles\ui_tagnote.h"
