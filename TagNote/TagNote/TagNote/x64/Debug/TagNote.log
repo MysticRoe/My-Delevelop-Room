@@ -1,9 +1,0 @@
-﻿  Moc'ing tagnote.h...
-  Rcc'ing tagnote.qrc...
-  Uic'ing tagnote.ui...
-  RCC: Warning: No resources in 'C:\Users\gzhen\source\repos\TagNote\TagNote\TagNote\tagnote.qrc'.
-  main.cpp
-  tagnote.cpp
-  moc_tagnote.cpp
-  qrc_tagnote.cpp
-  TagNote.vcxproj -> C:\Users\gzhen\source\repos\TagNote\TagNote\x64\Debug\TagNote.exe
